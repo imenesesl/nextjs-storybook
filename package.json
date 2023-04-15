@@ -2,6 +2,7 @@
   "name": "design-system",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://imenesesl.github.io/nextjs-storybook",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
