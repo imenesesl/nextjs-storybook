@@ -1,7 +1,9 @@
 import React from 'react';
 
+import { Search } from '../modules';
+
 const Home = () => {
-  return <>Hi all</>;
+  return <Search />;
 };
 
 export default Home;

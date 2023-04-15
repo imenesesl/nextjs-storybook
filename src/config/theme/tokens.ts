@@ -26,10 +26,13 @@ export const tokens: Theme = {
     secondaryDark: '#bf9900',
     secondaryLight: '#ffd886',
     background: '#f4f6f8',
+    backgroundDark: '#efefef',
     text: '#1c1f23',
     textSecondary: '#637381',
+    textSecondaryLight: '#bcbcbc',
     success: '#35c854',
     warning: '#fa4d56',
+    border: '#ffffff',
   },
   spacing: {
     lg: '32px',
@@ -39,5 +42,10 @@ export const tokens: Theme = {
     xs: '4px',
     xxl: '64px',
     xxs: '2px',
+  },
+  shadow: {
+    lg: '0 1px 2px 0 rgba(0,0,0)',
+    md: '0 1px 2px 0 rgba(0,0,0,.5)',
+    sm: '0 1px 2px 0 rgba(0,0,0,.2)',
   },
 };

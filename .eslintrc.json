@@ -22,6 +22,8 @@
   ],
   "plugins": ["prettier"],
   "rules": {
+    "no-undef": "off",
+    "no-unused-vars": "off",
     "prettier/prettier": "error",
     "react/prop-types": "error",
     "react/react-in-jsx-scope": "error",

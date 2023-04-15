@@ -27,10 +27,13 @@ type Colors = {
   secondaryDark: string;
   secondaryLight: string;
   background: string;
+  backgroundDark: string;
   text: string;
   textSecondary: string;
+  textSecondaryLight: string;
   success: string;
   warning: string;
+  border: string;
 };
 
 export type Theme = {
@@ -41,4 +44,5 @@ export type Theme = {
   };
   spacing: SizeMixing;
   borderRadius: BaseSize;
+  shadow: BaseSize;
 };
