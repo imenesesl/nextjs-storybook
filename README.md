@@ -2,6 +2,10 @@
 
 Hi!, this is a basic example project using Next JS and Strorybook, additionally libraries such as react-icons and styled-components have been used to make a component-oriented design
 
+## GH-Page
+
+https://imenesesl.github.io/nextjs-storybook/
+
 ## How to run this project
 
 To run this project make sure you have the node version set in the nvmrc file, for more practicality of how to move between node versions, I recommend using node version manager, once you are using the specific version run the following commands, It should be noted that we are using yarn, so make sure you have it installed globally on your machine.
